@@ -1,0 +1,42 @@
+body {
+    background-color: #f0f0f0 !important;
+}
+
+.nav {
+    border-radius: 0 !important;
+    padding: 10px 0 10px 0 !important;
+    background-color: #2c53c7 !important;
+}
+
+.mb-7 {
+    margin-bottom: 7px !important;
+}
+
+.mb-5 {
+    margin-top: 5px !important;
+}
+
+.bwhite-lg {
+    background-color: transparent !important;
+}
+
+.bwhite-sm {
+    background-color: transparent !important;
+    width: 10px !important;
+}
+
+.mymodal {
+    height: 300px !important;
+    top: 200px !important;
+    font-size: 20px !important;
+}
+
+@media (min-width: 992px) {
+    .gedf-main {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+    .gedf-card {
+        margin-bottom: 2.77rem;
+    }
+}
